@@ -37,4 +37,4 @@ aws lambda add-permission \
 --source-arn <my_alarm_arn>
 
 ## 시간설정이 필요할 경우 설정합니다
-$(date +%Y)/$(date +%m)/$(date +%d)/$(date +%H)/$(date +%M)
+```$(date +%Y)/$(date +%m)/$(date +%d)/$(date +%H)/$(date +%M)```
